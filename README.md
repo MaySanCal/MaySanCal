@@ -9,17 +9,10 @@ y responsabilidades gracias a mi resilencia y a mis ganas de aprender.
 
 ## Proyectos destacados
 
-<img src="https://i.postimg.cc/jj7HJTck/Whats-App-Image-2023-04-20-at-13-04-17.jpg" width="300px">     <img src="https://i.postimg.cc/76DkTg0G/Whats-App-Image-2023-04-20-at-13-05-47.jpg" width="300px">
+<img src="https://i.postimg.cc/jj7HJTck/Whats-App-Image-2023-04-20-at-13-04-17.jpg" width="300px">     <img src="" width="300px">
 
-<img src="https://i.postimg.cc/pTmwgHmm/Captura-de-Pantalla-2023-08-01-a-las-16-58-42.png" width="300px">     <img src="https://i.postimg.cc/3R8tVH6R/Whats-App-Image-2023-04-20-at-13-07-16.jpg" width="300px">
+<img src="https://i.postimg.cc/pTmwgHmm/Captura-de-Pantalla-2023-08-01-a-las-16-58-42.png" width="300px">     <img src="" width="300px">
 
-<img src="" width="300px">     <img src="https://i.postimg.cc/nrj7XdgZ/Whats-App-Image-2023-04-20-at-13-10-48.jpg" width="300px">
-
-
-<img src="" width="300px">     <img src="https://i.postimg.cc/j5gPdWxp/Whats-App-Image-2023-04-20-at-13-13-29.jpg" width="300px">
-
-
-<img src="" width="300px">
 
 ## Contacto
 
