@@ -1,19 +1,16 @@
-# ¡Hola! 👋 Soy May Sánchez
+# ¡Hola! 👋 Soy May Sánchez, y me apasiona la programación y la creación de productos de valor para clientes y usuarios. 
 
-([url_de_la_imagen_de_inicio](https://i.postimg.cc/CLY50BJb/PRESENTACION-Maite-Sanchez-Calderon.png))
+([url_de_la_imagen_de_inicio](https://postimg.cc/xqxnydwd))
 
-Soy un desarrollador apasionado por [tu campo de interés] y me encanta trabajar en proyectos interesantes y desafiantes. Este es mi perfil de GitHub, donde encontrarás algunos de mis proyectos y contribuciones.
+
 
 ## Acerca de mí
 
-Breve descripción sobre ti, tus habilidades y experiencia. ¡Puedes destacar tus principales tecnologías, intereses o cualquier otro dato relevante!
+Soy una persona prágmatica, empática y creativa, comprometida y trabajadora de equipo, capaz de adaptarme a diferentes contextos 
+y responsabilidades gracias a mi resilencia y a mis ganas de aprender.
 
 ## Proyectos destacados
 
-Aquí puedes listar algunos de tus proyectos más destacados o aquellos en los que has trabajado recientemente. Puedes agregar enlaces a los repositorios o a las páginas web correspondientes.
-
-1. [Proyecto 1](enlace_del_proyecto_1) - Una breve descripción del proyecto.
-2. [Proyecto 2](enlace_del_proyecto_2) - Otra breve descripción del proyecto.
 
 ## Contribuciones
 
