@@ -2,7 +2,8 @@
 
 ([url_de_la_imagen_de_inicio](https://postimg.cc/xqxnydwd))
 
-
+<p align="center"><img src="(https://postimg.cc/xqxnydwd)" width="300" alt="carta"></p>
+<p align="center">
 ## Acerca de mí
 
 Soy una persona prágmatica, empática y creativa, comprometida y trabajadora de equipo, capaz de adaptarme a diferentes contextos 
