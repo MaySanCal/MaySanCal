@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy May Sánchez, y me apasiona la programación y la creación de productos de valor para clientes y usuarios. 
 
-<img src="">
+<img src="https://i.postimg.cc/bNmLDNpW/image-1-1.png">
 
 ## Acerca de mí
 
@@ -17,7 +17,7 @@ y responsabilidades gracias a mi resilencia y a mis ganas de aprender.
 
 ## Contacto
 
-Si deseas ponerse en contacto conmigo, puedes hacerlo a través de mis redes sociales o enviándome un correo electrónico.
+Si deseas ponerte en contacto conmigo, puedes hacerlo a través de mis redes sociales o enviándome un correo electrónico.
 
 - Email: sanzmay30@gmail.com
 - LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/maite-sanchez-calderon/)
