@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy May Sánchez, y me apasiona la programación y la creación de productos de valor para clientes y usuarios. 
 
-<img src="[https://i.postimg.cc/3rGffD2T/false.jpg](https://i.postimg.cc/RFLd9wd6/false.jpg)">
+<img src="https://i.postimg.cc/RFLd9wd6/false.jpg">
 
 ## Acerca de mí
 
