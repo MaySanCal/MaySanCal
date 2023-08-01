@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy May Sánchez
 
-![Banner]([url_de_la_imagen_de_inicio](https://i.postimg.cc/CLY50BJb/PRESENTACION-Maite-Sanchez-Calderon.png))
+([url_de_la_imagen_de_inicio](https://i.postimg.cc/CLY50BJb/PRESENTACION-Maite-Sanchez-Calderon.png))
 
 Soy un desarrollador apasionado por [tu campo de interés] y me encanta trabajar en proyectos interesantes y desafiantes. Este es mi perfil de GitHub, donde encontrarás algunos de mis proyectos y contribuciones.
 
