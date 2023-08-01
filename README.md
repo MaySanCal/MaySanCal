@@ -3,26 +3,21 @@
 ([url_de_la_imagen_de_inicio](https://postimg.cc/xqxnydwd))
 
 
-
 ## Acerca de mí
 
 Soy una persona prágmatica, empática y creativa, comprometida y trabajadora de equipo, capaz de adaptarme a diferentes contextos 
 y responsabilidades gracias a mi resilencia y a mis ganas de aprender.
 
 ## Proyectos destacados
-
-
-## Contribuciones
-
-Si has contribuido a proyectos de código abierto o tienes participación en otras comunidades, puedes mencionarlo aquí y agregar enlaces a tus contribuciones más notables.
+([url_de_la_imagen_de_inicio]([https://postimg.cc/xqxnydwd](https://i.postimg.cc/pTmwgHmm/Captura-de-Pantalla-2023-08-01-a-las-16-58-42.png)))
 
 ## Contacto
 
 Si deseas ponerse en contacto conmigo, puedes hacerlo a través de mis redes sociales o enviándome un correo electrónico.
 
-- Email: tu@email.com
-- LinkedIn: [Perfil de LinkedIn](enlace_de_tu_perfil_linkedin)
-- Twitter: [@tu_usuario_de_twitter](enlace_de_tu_perfil_twitter)
+- Email: sanzmay30@gmail.com
+- LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/maite-sanchez-calderon/)
+
 
 ## ¡Gracias por visitar mi perfil!
 
