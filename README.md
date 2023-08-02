@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy May Sánchez, y me apasiona la programación y la creación de productos de valor para clientes y usuarios. 
 <p align="center"> 
-<img src="(https://i.postimg.cc/mgn3r6s9/minion-bienvenido.gif)">
+<img src="https://i.postimg.cc/mgn3r6s9/minion-bienvenido.gif">
 </p>
 
 ## Acerca de mí
